@@ -60,11 +60,11 @@
     color: white;
     padding: 10px 15px;
     border: none;
-    border-radius: 5px; /* Rounded corners for the button */
-    cursor: pointer; /* Changes cursor to pointer on hover */
+    border-radius: 5px; 
+    cursor: pointer; 
     text-decoration: none; /* Removes underline from the link */
     margin-top: 30px;
-    margin-bottom: 27px; /* Adjust as needed */
+    margin-bottom: 27px; 
     font-weight: bold;
 }
 .github-link:hover {
@@ -73,8 +73,8 @@
 
 .project-description {
     color: #333;
-    width: 90%; /* Adjust width as needed */
-    margin: 0 auto; /* Centers the description */
-    max-width: 400px; /* Optional: Ensures the description does not exceed a certain width */
+    width: 90%; 
+    margin: 0 auto; 
+    max-width: 400px; 
     text-align: left;
 }
